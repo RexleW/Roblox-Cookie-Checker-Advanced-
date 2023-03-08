@@ -1,5 +1,7 @@
-#pip install pycryptodome  , It works only v3.11 Above.
-import random ,base64,codecs,zlib;pyobfuscate=""\
+#pip install pycryptodome ---------- PASTE THAT IN SHELL OR TERMINAL.
+#from discord_webhook import DiscordWebhook, DiscordEmbed -- put this under import random
+#import time -- put this user from discord_webhook
+import random ,base64,codecs,zlib;pyobfuscate=""
 from discord_webhook import DiscordWebhook, DiscordEmbed
 import time
 
